@@ -34,9 +34,10 @@ end htmlBasicTemplateGet
 
 ---------------------------------------------------
 --  DESCRIPTION
---            Exports an image from chart
+--            Builds the chart html
 --  PARAMETERS
 --            pChartName:  The chart template name
+--            pData: The chart data
 -- CHANGES
 --  11/24/2016: Gurgen - Created
 ---------------------------------------------------
